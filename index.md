@@ -2,10 +2,10 @@
 
 Secure machine learning has attracted a lot of interest the last few years. Most of the work has centered around attacks, 
 as we cannot build a defense without an idea of what we're defending against. Also, there are classes of attacks that may
-be impossible to defend against (Cite Carlini's evisceration). 
+be impossible to defend against. 
 
 There are some sensible defenses against existing attacks. Rate limiting an API and hiding the prediction values would 
-have prevented ProofPoint's CVE (https://nvd.nist.gov/vuln/detail/CVE-2019-20634). There are also attacks that may be 
+have prevented [ProofPoint's CVE](https://nvd.nist.gov/vuln/detail/CVE-2019-20634). There are also attacks that may be 
 impractical to execute in any setting that we don't need to defend against. 
 
 We want to discuss the threat landscape and come up with deployment recommendations for ML researchers and engineers that 
