@@ -16,8 +16,6 @@ One highly effective tool for communicating cyber security threats is the MITRE 
 
 #### 9:30-9:45 AM (PST): Q&A about the talks
 
-A panel consisting of the speakers where the moderator uses these questions for the speakers. 
-
 #### 9:45 - 10:30 AM (PST): Breakout Session
 
 - What’s the most valuable target?
