@@ -24,7 +24,7 @@ A panel consisting of the speakers where the moderator uses these questions for 
 - What’s the biggest threat to your models?
 - What’s the least significant threat to your models?
 
-#### Rejoin and report out 10:30-11:00
+#### 10:30-11:00 AM (PST): Rejoin and report out
 
 Moderator for each room gives a brief summary of what they discussed
 
@@ -42,7 +42,7 @@ Moderator for each room gives a brief summary of what they discussed
 - What’s the most effective defense?
 - What is practically possible?
 
-#### Rejoin and report out 10:30-11:00
+#### 10:30-11:00 AM (PST): Rejoin and report out
 
 ## Implementation, Friday May 21th 2021
 
@@ -58,4 +58,4 @@ Moderator for each room gives a brief summary of what they discussed
 - What’s the best way to reach each audience?
 - What tools are missing?
 
-#### Rejoin and report out 10:30-11:00
+#### 10:30-11:00 AM (PST): Rejoin and report out
